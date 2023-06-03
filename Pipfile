@@ -8,6 +8,8 @@ cirq = "*"
 qutip = "*"
 qiskit = "*"
 jupyter = "*"
+numpy = "*"
+pylatexenc = "*"
 
 [dev-packages]
 

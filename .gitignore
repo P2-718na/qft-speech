@@ -4,6 +4,7 @@
 .idea
 .code
 .ipynb_checkpoints
+# NECESSARY FOR IBM TOKEN
 .env
 
 ### Latex
