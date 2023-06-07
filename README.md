@@ -28,3 +28,6 @@ https://inst.eecs.berkeley.edu/~cs191/fa05/lectures/lecture19_fa05.pdf
 How do we find ord(a) = r? The strategy is to calculation the function FN(x) for many values of x in parallel
 and to use Fourier techniques to detect the period in the sequence of function values. In the next subsection
 we show Shor’s quantum algorithm does this efficiently using the quantum fourier transform.
+
+god forsaken answer:
+https://medium.com/mit-6-s089-intro-to-quantum-computing/a-general-implementation-of-shors-algorithm-da1595694430
