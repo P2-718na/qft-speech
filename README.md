@@ -31,3 +31,5 @@ we show Shor’s quantum algorithm does this efficiently using the quantum fouri
 
 god forsaken answer:
 https://medium.com/mit-6-s089-intro-to-quantum-computing/a-general-implementation-of-shors-algorithm-da1595694430
+
+https://qiskit.org/ecosystem/ibm-runtime/getting_started.html

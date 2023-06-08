@@ -10,6 +10,7 @@ qiskit = "*"
 jupyter = "*"
 numpy = "*"
 pylatexenc = "*"
+qiskit-ibm-runtime = "*"
 
 [dev-packages]
 
