@@ -6,11 +6,11 @@ name = "pypi"
 [packages]
 cirq = "*"
 qutip = "*"
-qiskit = "*"
 jupyter = "*"
 numpy = "*"
 pylatexenc = "*"
 qiskit-ibm-runtime = "*"
+qiskit = "*"
 
 [dev-packages]
 

@@ -15,7 +15,7 @@ def c_7mod15_gate(power):
 
     U = U.to_gate()
     U.name = "%i^%i mod 15" % (7, power)
-    c_U = U.control() ##.control(t)
+    c_U = U.control()
     return c_U
 
 

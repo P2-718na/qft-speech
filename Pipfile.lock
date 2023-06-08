@@ -2012,6 +2012,7 @@
                 "sha256:1eb43d1026b64d431a8e0f1e8a8c8119ac698e72e9b95102018214411a8463ea",
                 "sha256:9189c92e8c61ae91402a64b972c4802b2457ce6a799d658256ebf084d5c7eb71"
             ],
+            "markers": "python_version >= '3.7'",
             "version": "==1.1.0"
         },
         "retrying": {
