@@ -21,7 +21,7 @@ https://arxiv.org/abs/quant-ph/0406176
 https://qiskit.org/learn/
 
 https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm
-^^ very good shor's explaination
+^^ very bad shor's explaination
 
 vv
 https://inst.eecs.berkeley.edu/~cs191/fa05/lectures/lecture19_fa05.pdf
