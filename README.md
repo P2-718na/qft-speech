@@ -33,3 +33,7 @@ god forsaken answer:
 https://medium.com/mit-6-s089-intro-to-quantum-computing/a-general-implementation-of-shors-algorithm-da1595694430
 
 https://qiskit.org/ecosystem/ibm-runtime/getting_started.html
+
+https://medium.com/mit-6-s089-intro-to-quantum-computing/a-general-implementation-of-shors-algorithm-da1595694430
+https://journals.aps.org/pra/pdf/10.1103/PhysRevA.100.012305
+https://www.appi.keio.ac.jp/Itoh_group/publications/pdf/PhysRevA_71_052320.pdf
